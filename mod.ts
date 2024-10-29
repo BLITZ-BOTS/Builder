@@ -1,5 +1,5 @@
 /**
- * @module EventCommandModule
+ * @module
  * 
  * This module defines two primary classes, `EventBuilder` and `CommandBuilder`, 
  * as well as their associated function types, `EventAction` and `CommandAction`.

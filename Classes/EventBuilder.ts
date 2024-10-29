@@ -1,5 +1,5 @@
 /**
- * @module EventBuilderModule
+ * @module
  * 
  * This module defines an `EventBuilder` class and an `EventAction` interface, 
  * designed to facilitate the creation and management of custom events with 

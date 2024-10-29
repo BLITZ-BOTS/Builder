@@ -1,5 +1,5 @@
 /**
- * @module CommandBuilderModule
+ * @module
  * 
  * This module defines a `CommandBuilder` class and a `CommandAction` interface, 
  * designed for creating and managing command structures that can be executed 
