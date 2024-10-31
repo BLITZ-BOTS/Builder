@@ -69,7 +69,7 @@ If you want to add config values to your command or event, use the [BLITZ CONFIG
 import { CommandBuilder } from '@blitz-bots/builders';
 import { Config } from '@blitz-bots/config';
 
-const greetCommand = new CommandBuilder({
+const customCommand = new CommandBuilder({
   name: "custom",
   description: "Return a custom message set within config",
   action: (message, args) => {
